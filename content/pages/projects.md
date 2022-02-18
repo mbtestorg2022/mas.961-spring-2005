@@ -15,10 +15,103 @@ Students are required to design and implement an original project in this area a
 
 All work is courtesy of the student named and used with permission.
 
-| PROJECTS | STUDENT EXAMPLES |
-| --- | --- |
-| Scenarios Papers |  {{< br >}}{{< br >}} Aaron Zinman ([PDF]({{< baseurl >}}/resources/az_scene_paper)) {{< br >}}{{< br >}} Amy Eastment ([PDF]({{< baseurl >}}/resources/ae_scene_paper)) {{< br >}}{{< br >}} Christine Liu ([PDF]({{< baseurl >}}/resources/cl_scene_spec)) {{< br >}}{{< br >}} Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_scene_paper)) {{< br >}}{{< br >}}  |
-| Augmented Objects Papers |  {{< br >}}{{< br >}} Aaron Zinman ([PDF]({{< baseurl >}}/resources/az_augment_obj)) {{< br >}}{{< br >}} Amy Eastment ([PDF]({{< baseurl >}}/resources/ae_augment_obj)) {{< br >}}{{< br >}} Christine Liu ([PDF]({{< baseurl >}}/resources/cl_augment_obj)) {{< br >}}{{< br >}} Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_augment_obj)) {{< br >}}{{< br >}}  |
-| Final Project Proposals |  {{< br >}}{{< br >}} Aaron Zinman ([PDF]({{< baseurl >}}/resources/az_proj_prop)) {{< br >}}{{< br >}} Amy Eastment ([PDF]({{< baseurl >}}/resources/ae_proj_prop)) {{< br >}}{{< br >}} Christine Liu ([PDF]({{< baseurl >}}/resources/cl_proj_prop)) {{< br >}}{{< br >}} Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_proj_prop)) {{< br >}}{{< br >}}  |
-| Final Project Updates |  {{< br >}}{{< br >}} Aaron Zinman ([PDF]({{< baseurl >}}/resources/az_proj_update)) {{< br >}}{{< br >}} Amy Eastment ([PDF]({{< baseurl >}}/resources/ae_proj_update)) {{< br >}}{{< br >}} Christine Liu ([PDF]({{< baseurl >}}/resources/cl_proj_update)) {{< br >}}{{< br >}} Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_proj_update)) {{< br >}}{{< br >}}  |
-| Final Projects | Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_final_proj))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROJECTS
+{{< thclose >}}
+{{< thopen >}}
+STUDENT EXAMPLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Scenarios Papers
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aaron Zinman ([PDF]({{< baseurl >}}/resources/az_scene_paper))
+
+Amy Eastment ([PDF]({{< baseurl >}}/resources/ae_scene_paper))
+
+Christine Liu ([PDF]({{< baseurl >}}/resources/cl_scene_spec))
+
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_scene_paper))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Augmented Objects Papers
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aaron Zinman ([PDF]({{< baseurl >}}/resources/az_augment_obj))
+
+Amy Eastment ([PDF]({{< baseurl >}}/resources/ae_augment_obj))
+
+Christine Liu ([PDF]({{< baseurl >}}/resources/cl_augment_obj))
+
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_augment_obj))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project Proposals
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aaron Zinman ([PDF]({{< baseurl >}}/resources/az_proj_prop))
+
+Amy Eastment ([PDF]({{< baseurl >}}/resources/ae_proj_prop))
+
+Christine Liu ([PDF]({{< baseurl >}}/resources/cl_proj_prop))
+
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_proj_prop))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project Updates
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aaron Zinman ([PDF]({{< baseurl >}}/resources/az_proj_update))
+
+Amy Eastment ([PDF]({{< baseurl >}}/resources/ae_proj_update))
+
+Christine Liu ([PDF]({{< baseurl >}}/resources/cl_proj_update))
+
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_proj_update))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Projects
+{{< tdclose >}}
+{{< tdopen >}}
+Sajid Sadi ([PDF]({{< baseurl >}}/resources/ss_final_proj))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
