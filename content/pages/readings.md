@@ -243,7 +243,7 @@ Hallnas, and Redstrom. "[Slow Technology](https://dl.acm.org/citation.cfm?id=593
 
 "Special Issue on Tangible Computing." _Personal and Ubiquitous Computing Journal_ 8, no. 5.
 
-"Ambient Interfaces: Design Challenges and Recommendations." Fraunhofer Institute ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)([PDF - 1.5MB](https://pdfs.semanticscholar.org/db8b/0da3981af4e5e005e367449281127aeae49d.pdf))
+"Ambient Interfaces: Design Challenges and Recommendations." Fraunhofer Institute ([PDF - 1.5MB](https://pdfs.semanticscholar.org/db8b/0da3981af4e5e005e367449281127aeae49d.pdf))
 
 Cohen, and McGee. "Tangible multimodal interfaces for safety-critical applications." _Communications of the ACM_ 47, no. 1 (2004): 42-46.
 
@@ -282,14 +282,14 @@ Designing Interactive Paper ([PDF](http://www-ihm.lri.fr/~mackay/pdffiles/IWAR99
 _Presence Journal_ special issue on AR, 1997.  
 Wellner, P. "The DigitalDesk Calculator: Tangible Manipulation on a Desk Top Display." _Proceedings of UIST '91_ (1991): 27-33.
 
-Leibe, Bastian, and Thad Starner. _The Perceptive Workbench: Toward Spontaneous and Natural Interaction in SemiImmersive Virtual Environments._ 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://smartech.gatech.edu/bitstream/handle/1853/3400/99-33.pdf;jsessionid=86D397BF1A392E288161D6173999F427.smart2?sequence=1))
+Leibe, Bastian, and Thad Starner. _The Perceptive Workbench: Toward Spontaneous and Natural Interaction in SemiImmersive Virtual Environments._ 2000. ([PDF](https://smartech.gatech.edu/bitstream/handle/1853/3400/99-33.pdf;jsessionid=86D397BF1A392E288161D6173999F427.smart2?sequence=1))
 
 Nakanishi, et al. _EnhancedDesk and EnhancedWall: Augmented Desk and Wall Interfaces_. ([PDF](http://dspace.mit.edu/bitstream/handle/1721.1/82648/mas-963-spring-2004/contents/assignments/enhanced_class8.pdf
             ))
 
 Johnson, W., H. Jellinek, L. Klotz, and S. Card. "Bridging the Paper and Electronic Worlds: The Paper User Interface." _Proceedings of INTERCHI'93_ (1993): 507-512. ([PDF](https://dl.acm.org/doi/pdf/10.1145/169059.169445))
 
-"Listen Reader." An Electronically Augmented Paper-based Book. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.3073&rep=rep1&type=pdf))
+"Listen Reader." An Electronically Augmented Paper-based Book. ([PDF - 1.1MB](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.3073&rep=rep1&type=pdf))
 
 
 {{< tdclose >}}
